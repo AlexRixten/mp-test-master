@@ -79,7 +79,7 @@ code {
   left: 4px;
 }
 
-.btns{
+.btns {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -87,14 +87,14 @@ code {
   gap: 20px;
 }
 
-button{
+button {
   background: transparent;
   border: 1px solid #2d9bf0;
   color: #2d9bf0;
   padding: 10px;
   cursor: pointer;
 }
-button svg{
+button svg {
   fill: #2d9bf0;
   width: 10px;
   height: 10px;
